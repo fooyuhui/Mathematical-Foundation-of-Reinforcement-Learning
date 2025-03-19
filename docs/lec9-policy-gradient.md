@@ -33,7 +33,7 @@ The basic idea of the policy gradient is simple:
 
 ## Metrics to define optimal policies
 
-### averge value
+### average value
 
 $$
 \bar{v}_\pi = \sum_{s\in\mathcal{S}}d(s)v_\pi(s)
